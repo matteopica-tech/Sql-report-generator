@@ -1,0 +1,8 @@
+Customer,Category,Amount,Status,Transaction Date
+Studio Rossi,Database,2200.0,PAID,2026-05-04
+Delta Tech,Automation,1750.2,FAILED,2026-05-05
+Alpha SRL,Software,1200.5,PAID,2026-05-01
+Alpha SRL,Software,980.0,PAID,2026-05-06
+Beta SNC,Consulting,850.0,PENDING,2026-05-02
+Beta SNC,Consulting,640.5,PENDING,2026-05-07
+Gamma SPA,Monitoring,430.99,PAID,2026-05-03
